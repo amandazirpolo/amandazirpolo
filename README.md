@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--Hi there 👋
+-->
 
 <!--
 **amandazirpolo/amandazirpolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align = "center"> Bem vindo ao meu repositório :) </h1>
+<br>
+<br>
+
+- Cursando Ciência da Computação na Universidade Federal Fluminense (UFF), com o objetivo de me tornar uma analista de dados;
+- Interesse na área de Data Science, Desenvolvimento Web e Machine Learning.
