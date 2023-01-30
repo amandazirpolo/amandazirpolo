@@ -24,8 +24,7 @@
 <!--LINGUAGENS-->
   
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandazirpolo&langs_count=8&theme=tokyonight&title_color=c49ab4" align="left">
-    
-
+   
   
 <br> 
 <br> 
@@ -38,7 +37,18 @@
 <br> 
 <br> 
 <br> 
+<div align="center" widht="100%">
+<h2 align = "center"> <i>Skills</i> <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30"></h2>
+<br>
+<br>
+<h3 align = "center"> <i>Web</i> </h3>
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap)](https://skillicons.dev)
   
+<h3 align = "center"> <i>Desenvolvimento</i> </h3>
+  
+[![My Skills](https://skillicons.dev/icons?i=python,latex,linux)](https://skillicons.dev)
+</div>  
 <h2 align = "center"> <i>Contatos</i> <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="30"></h2>
   
 <div align = "center" > 
