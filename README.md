@@ -5,8 +5,10 @@
 <image src= "https://user-images.githubusercontent.com/123826914/215362870-cddfaf82-c6a9-4b82-9229-dd3d23efe069.jpg" width = "100%">
 <br>
   
-- Cursando Ciência da Computação na Universidade Federal Fluminense (UFF), com o objetivo de me tornar uma analista de dados;
-- Interesse na área de Data Science, Desenvolvimento Web e Machine Learning.
+- Cursando Ciência da Computação na Universidade Federal Fluminense (UFF);
+- Data Science;
+- Deep Learning;
+- Python, C, Java, Web +
   
 <br><br>
 <h2 align = "center"> <i>Atividades</i> <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30"></h2>
